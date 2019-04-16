@@ -2,6 +2,6 @@
 # returns the phrase
 
 def parrot(f)
-  f
   puts f
+  f
 end
