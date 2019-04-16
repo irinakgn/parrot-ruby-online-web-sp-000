@@ -4,5 +4,4 @@
 def parrot(f)
   f
   puts f
-
 end
