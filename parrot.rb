@@ -2,7 +2,7 @@
 # returns the phrase
 
 def parrot(f)
-f
+  f
   puts f
 
 end
